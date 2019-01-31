@@ -9,7 +9,7 @@ describe('AdvancedMaths', function() {
     });
 
     it('should return 1 when 1 is entered', function() {
-      expect(AdvancedMaths.fibonacci(1)).to.equal(100);
+      expect(AdvancedMaths.fibonacci(1)).to.equal(1);
     });
 
     it('should return 55 when 10 is entered', function() {
