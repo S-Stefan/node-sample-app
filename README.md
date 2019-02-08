@@ -2,6 +2,8 @@
 
 ## Installation
 
+Jenkins test!
+
 ```
 cd app
 npm install
